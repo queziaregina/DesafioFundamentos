@@ -1,0 +1,4 @@
+C:\Users\quezi\Downloads\trilha-net-fundamentos-desafio\obj\Debug\net7.0\trilha-net-fundamentos-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quezi\Downloads\trilha-net-fundamentos-desafio\obj\Debug\net7.0\trilha-net-fundamentos-desafio.AssemblyInfoInputs.cache
+C:\Users\quezi\Downloads\trilha-net-fundamentos-desafio\obj\Debug\net7.0\trilha-net-fundamentos-desafio.AssemblyInfo.cs
+C:\Users\quezi\Downloads\trilha-net-fundamentos-desafio\obj\Debug\net7.0\trilha-net-fundamentos-desafio.csproj.CoreCompileInputs.cache
